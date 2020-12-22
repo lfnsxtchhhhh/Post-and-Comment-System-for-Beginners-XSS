@@ -4,7 +4,7 @@
 # Software Link:https://www.sourcecodester.com/download-code?nid=9660&title=Post+and+Comment+System+for+Beginners+using+PHP%2FMySQLi+Source+Code
 # Version: 1.0
 # Tested on:Windows 10
-# Parameter: # ![image](https://github.com/lfnsxtchhhhh/Post-and-Comment-System-for-Beginners-XSS/blob/main/code.png)
+# Parameter:  ![image](https://github.com/lfnsxtchhhhh/Post-and-Comment-System-for-Beginners-XSS/blob/main/code.png)
 # Source code:post_and_comment_system/post_and_comment_system/home.php
 # Vulnerability proof：Use burpsuite
 # ![image](https://github.com/lfnsxtchhhhh/Post-and-Comment-System-for-Beginners-XSS/blob/main/1.png)
